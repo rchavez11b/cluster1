@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/rchavez11b/cluster1.git
+    repoURL: https://github.com/rchavez11b/cluster1
     targetRevision: HEAD
     path: dev
   destination: 
